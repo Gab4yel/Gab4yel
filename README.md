@@ -29,5 +29,3 @@ Olá, sou Gabriel Vieira Cesar
  
  
 </div>
-
-![Snake animation](https://github.com/Gab4yel/Gab4yel/blob/output/github-contribution-grid-snake.svg)
